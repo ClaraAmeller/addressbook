@@ -41,3 +41,9 @@
  .container {
    margin: 30px 50px;
  }
+
+ /* Commons */
+
+ .flex {
+   display: flex;
+ }
